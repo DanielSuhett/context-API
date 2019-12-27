@@ -33,7 +33,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://gitname.github.io/context-API/",
+  "homepage": "https://danielsuhett.github.io/context-API/",
   "devDependencies": {
     "gh-pages": "^2.1.1"
   }
